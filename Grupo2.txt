@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Nicolás Nahuelvil - nicolasnahuelvil@gmail.com
+=======
+Juan Carlos Gutierrez jc.gutierrez.concha@gmail.com
+>>>>>>> 2f7f821e6b8433dfad7824c1e4056bb7be8a14f9
