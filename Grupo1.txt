@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+Mauricio Bozzo mauricio.bozzo@gmail.com
+=======
+Felipe Negrete // felipe.negrete.navarro@gmail.com
+>>>>>>> f602797e343408cd1e2470dc56853fde78af347e
