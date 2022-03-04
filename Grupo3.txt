@@ -1,1 +1,9 @@
+<<<<<<< HEAD
 Cristian Fuentes
+=======
+<<<<<<< HEAD
+Nicanor Cerón Z. nicanor.lopez@usach.cl
+=======
+Francisco Rivera francisco@inf.uct.cl
+>>>>>>> 72eafd2adc1b2ecc167460291d33cc86b10641d6
+>>>>>>> c7b9fa22eff1f79b238d388d1f2e7bfe949b65ae

@@ -1,0 +1,9 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+Mario Larenas mario.larenas@gmail.com
+=======
+Mauricio Bozzo mauricio.bozzo@gmail.com
+>>>>>>> 2f7f821e6b8433dfad7824c1e4056bb7be8a14f9
+=======
+Felipe Negrete // felipe.negrete.navarro@gmail.com
+>>>>>>> f602797e343408cd1e2470dc56853fde78af347e
